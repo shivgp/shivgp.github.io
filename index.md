@@ -1,16 +1,16 @@
-Shiv Patel
-847-312-2430 | shivgp11@iastate.edu
-1473 Mitchell Trail | Elk Grove Village, IL 
-GitHub: https://github.com/shivgp11/assignments
+###Shiv Patel
+#847-312-2430 | shivgp11@iastate.edu
+#1473 Mitchell Trail | Elk Grove Village, IL 
+#GitHub: https://github.com/shivgp11/assignments
 
-Education
+##Education
 Iowa State University Ames, Iowa
 Bachelor of Science in Computer Science
 Bachelor of Science in Data Science 
 Expected Graduation Date: May 2023
 GPA 3.2/4.0
 
-Experience
+##Experience
 John Deere Moline, IL
 Software Engineering Intern May 2022-August 2022
 • Worked as a data engineer on Scrum Team for WGR
@@ -24,7 +24,7 @@ Software Engineering Intern May 2021-August 2021
 • Developed UI changes to Dealer Preferences based on user feedback
 • Technologies: React/Redux, Spring Boot, Jenkins
 
-Projects
+##Projects
 2016 Election Database Application
 • Created Java database application with transactional support and relational database of 
 tweets of state legislators and 2016 presidential candidates with a total of close to 
@@ -37,7 +37,7 @@ Solitaire
 • Logic includes memory management and allocation
 • Technologies: C/C++, GNU, TermBox
 
-Technical Skills
+###Technical Skills
 • C /C++
 • Spring Boot
 • MySQL
