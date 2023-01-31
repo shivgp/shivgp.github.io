@@ -11,36 +11,33 @@
 - GPA 3.2/4.0
 
 ## Experience
-- **John Deere Moline, IL**
-- Software Engineering Intern 
-- _May 2022-August 2022_
-  - Worked as a data engineer on Scrum Team for WGR
-  - Migrated data of on-premise CGR web application to AWS
-  - Performed ETL process of Dealer, Customer, and Equipment data for multiple regions
-  - Technologies: Spark, MySQL, Databricks, AWS, Scala
- 
-- **John Deere Moline, IL**
-- Software Engineering Intern 
-- _May 2021-August 2021_
-  - Worked as a full stack developer on Scrum team for OM
-  - Revamped Accumulating Funds legacy system on JDSC
-  - Developed UI changes to Dealer Preferences based on user feedback
-  - Technologies: React/Redux, Spring Boot, Jenkins
+### John Deere Moline, IL
+#### Software Engineering Intern, May 2022-August 2022
+- Worked as a data engineer on Scrum Team for WGR
+- Migrated data of on-premise CGR web application to AWS
+- Performed ETL process of Dealer, Customer, and Equipment data for multiple regions
+- Technologies: Spark, MySQL, Databricks, AWS, Scala
+### John Deere Moline, IL
+#### Software Engineering Intern, May 2021 - August 2021
+- Worked as a full stack developer on Scrum team for OM
+- Revamped Accumulating Funds legacy system on JDSC
+- Developed UI changes to Dealer Preferences based on user feedback
+- Technologies: React/Redux, Spring Boot, Jenkins
 
 ## Projects
-- **2016 Election Database Application**
-  - Created Java database application with transactional support and relational database of 
+### 2016 Election Database Application
+- Created Java database application with transactional support and relational database of 
 tweets of state legislators and 2016 presidential candidates with a total of close to 
 250,00 rows
-  - Performed extract-transform-load, data cleaning, and query optimization
-  - Technologies: SQL, MySQL, JDBC
-- **Solitaire** 
-  - Worked with another individual to develop Solitaire from scratch complete with a GUI
-  - All movement and card data is worked created from scratch
-  - Logic includes memory management and allocation
-  - Technologies: C/C++, GNU, TermBox
+- Performed extract-transform-load, data cleaning, and query optimization
+- Technologies: SQL, MySQL, JDBC
+### Solitaire 
+- Worked with another individual to develop Solitaire from scratch complete with a GUI
+- All movement and card data is worked created from scratch
+- Logic includes memory management and allocation
+- Technologies: C/C++, GNU, TermBox
 
-### Technical Skills
+## Technical Skills
 - C /C++
 - Spring Boot
 - MySQL
