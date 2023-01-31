@@ -13,14 +13,15 @@
 ## Experience
 - **John Deere Moline, IL**
 - Software Engineering Intern 
-- May 2022-August 2022
+- _May 2022-August 2022_
   - Worked as a data engineer on Scrum Team for WGR
   - Migrated data of on-premise CGR web application to AWS
   - Performed ETL process of Dealer, Customer, and Equipment data for multiple regions
   - Technologies: Spark, MySQL, Databricks, AWS, Scala
+ 
 - **John Deere Moline, IL**
 - Software Engineering Intern 
-- May 2021-August 2021
+- _May 2021-August 2021_
   - Worked as a full stack developer on Scrum team for OM
   - Revamped Accumulating Funds legacy system on JDSC
   - Developed UI changes to Dealer Preferences based on user feedback
@@ -40,8 +41,8 @@ tweets of state legislators and 2016 presidential candidates with a total of clo
   - Technologies: C/C++, GNU, TermBox
 
 ### Technical Skills
-• C /C++
-• Spring Boot
-• MySQL
-• React/Redux
-• PySpark/Scala
+- C /C++
+- Spring Boot
+- MySQL
+- React/Redux
+- PySpark/Scala
