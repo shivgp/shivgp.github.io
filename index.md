@@ -11,8 +11,8 @@
 - GPA 3.2/4.0
 
 ## Experience
-- _John Deere Moline, IL
-- Software Engineering Intern May 2022-August 2022_
+_John Deere Moline, IL
+Software Engineering Intern May 2022-August 2022_
 - Worked as a data engineer on Scrum Team for WGR
 - Migrated data of on-premise CGR web application to AWS
 - Performed ETL process of Dealer, Customer, and Equipment data for multiple regions
